@@ -1,5 +1,6 @@
 # noroot_ping
-Simple python bindings to rust's tokio tcp ping function.
+Simple python bindings to rust's tokio tcp ping function. This package is intended to be a leight weight solution for tcp pings
+without needing root on linux based systems.
 
 ## Installation
 ```
